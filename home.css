@@ -1,0 +1,42 @@
+html{ 
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+
+
+.conteiner-titulo {
+width: 10%;
+margin-right: 75px;
+display: flex;
+
+}
+
+.titulo {
+    color: white;
+    display: flex;
+    
+    text-align:  center;
+    background-color: black;
+}
+
+.conteiner-botones {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    grid: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+.boton1 {
+    margin-right: 100px;
+}
+
+.boton2{
+    margin-left: 100px;
+}
